@@ -1,12 +1,12 @@
 # RESTful API implementation using Restify and TypeScript 
 
-Simple application template using Restfy and TypeScript.
+Simple application template using Restify and TypeScript.
 
-### Why Restfy instead Express?
+### Why Restify instead Express?
 
 Optimized for building semantically correct RESTful web services ready for production use at scale.
 
-From: [Restfy](http://restify.com/)
+From: [Restify](http://restify.com/)
 
 ## Running
 
