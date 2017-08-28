@@ -6,8 +6,7 @@
   "license": "ISC",
   "author": {
     "name": "Rafael Vargas",
-    "email": "rafael@currency.digital",
-    "url": "currency.digital"
+    "email": "raafvargas@hotmail.com"
   },
   "scripts": {
     "build": "npm run build-ts && npm run tslint && echo Build finished!",
